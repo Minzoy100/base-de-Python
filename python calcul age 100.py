@@ -10,8 +10,6 @@ age_utilisateur = int(input("Quel est votre âge ? "))
 # On demande l'année pour ne pas que le code devienne obsolète
 année = int(input("En quelle année somme nous ? "))
 
-# Code à debug : faire en sorte de vérifié si il s'agit bien d'un numéro, il n'est pas possible de mettre de nombre a virgule
-
 # Et on calcul en quelle année il va avoir 100ans
 annee_100_ans = année + (100 - age_utilisateur)
 
