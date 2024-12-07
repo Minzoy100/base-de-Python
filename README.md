@@ -1,4 +1,4 @@
- Salut, Aujourd’hui je vais vous montrer les bases du python avec un code pour calculer en quelle année quelqu’un aura 100 ans, tout vous sera expliqué dans les lignes après les #(les # sont des bouts de texte dans le code qui n’est pas exécuté, pour par exemple expliquer votre code ou simplement retiré des lignes de code pour tester votre code différemment.)
+Je vais vous présentez les bases du python avec un code pour calculer en quelle année quelqu’un aura 100 ans, tout vous sera expliqué dans les lignes après les #(les # sont des bouts de texte dans le code qui n’est pas exécuté, pour par exemple expliquer votre code ou simplement retiré des lignes de code pour tester votre code différemment.)
 Ce code est disponible en fichier python dans ce repo.
 
  On demande le nom de notre utilisateur, "nom_utilisateur" est la valeur qu'on va donner 
